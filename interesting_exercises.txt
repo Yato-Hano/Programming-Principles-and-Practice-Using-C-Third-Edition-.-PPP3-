@@ -1,0 +1,18 @@
+Part I: The Basics
+	3_chapter: exercise_5, exercise_11.
+	4_chapter: exercise_12_13.
+	7_chapter: exercise_7_8.
+	8_chapter: exercise_5_6_7_8_9.
+
+Part II: Input and Output
+	9_chapter: exercise_4, exercise_25.
+	11_chapter: exercise_1, exercise_12_13_14_15, exercise_18.
+	12_chapter: exercise_5_6_7.
+	14_chapter: exercise_8.
+
+Part III: Data and Algorithms
+	15_chapter: exercise_15.
+	17_chapter: exercise_1_2_3_4.
+	18_chapter: exercise_14_15.
+	19_chapter: exercise_6.
+	21_chapter: exercise_10.

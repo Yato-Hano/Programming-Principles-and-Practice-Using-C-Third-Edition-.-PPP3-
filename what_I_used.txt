@@ -1,0 +1,4 @@
+Programming: Principles and Practice Using C++ (3rd Edition) textbook  
+Microsoft Visual Studio Community 2026
+Microsoft Windows 11
+QT framework (10_chapter - 14_chapter, primarily)
