@@ -6,7 +6,7 @@ Part I: The Basics
 
 Part II: Input and Output
 	9_chapter: exercise_4 (Multi input), exercise_25 (Input and output streams experiment).
-	11_chapter: exercise_1 (Arrow class: GUI), exercise_12_13_14_15 (Right_triangle class: GUI), exercise_18 (Box_with rounded_corners class: GUI).
+	11_chapter: exercise_1 (Arrow class: GUI), exercise_12_13_14_15 (Right_triangle class, Regular_hexagon class: GUI), exercise_18 (Box_with rounded_corners class: GUI).
 	12_chapter: exercise_5_6_7 (Striped_closed_polyline class: GUI).
 	14_chapter: exercise_8 (Currency converter: GUI).
 
