@@ -9,7 +9,7 @@ amount in an input window and provide a way of selecting currencies to convert t
 
 using namespace Graph_lib;
 
-struct From_To
+struct From_To //indexes
 {
     int from{};
     int to{};
@@ -80,7 +80,10 @@ Conversion_window::Conversion_window(Application&a)
     result_box.data.set_font_size(8);
     result_box.label.set_font_size(8);
 
-    string curr; double rate{};
+    string curr; double rate{};  
+    // example of rates format:  
+    // USD 1
+    // Pound 1.32
     for (size_t i = 0; ifs>>curr>>rate; i++)
     {
         from_m.attach(make_unique<Button>(Point{}, 0, 0, curr, [i, this] {current_indicator.from = i; }));
