@@ -2,7 +2,7 @@
 This repository contains my solutions to C++ exercises while learning:
   - basic syntax
   - finctions and classes
-  - GUI
+  - basic GUI
   - STL
 
 Feedback is welcome :)
